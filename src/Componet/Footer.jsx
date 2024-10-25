@@ -1,6 +1,6 @@
 import React from "react";
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import img from "../../public/assets/play Store.png";
+import img from "../../public/assets/Play_Store.png";
 
 const Footer = () => {
   return (
